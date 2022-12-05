@@ -1,1 +1,2 @@
 # dolgozat
+Farkas János
